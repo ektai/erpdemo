@@ -1,0 +1,13 @@
+{
+	"css/leaflet.min.css": [
+		"../../frappe/frappe/public/js/lib/leaflet/leaflet.css",
+		"../../frappe/frappe/public/js/lib/leaflet/leaflet.draw.css",
+		"../../frappe/frappe/public/js/lib/leaflet/L.Control.Locate.css",
+		"../../frappe/frappe/public/js/lib/leaflet/easy-button.css"
+	],
+	"css/tierslieux.min.css": [
+		"public/scss/mapview.scss",
+		"../../frappe/frappe/public/less/form_grid.less",
+		"../../frappe/frappe/public/less/controls.less"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"title": "Accueil",
+	"route": "index",
+	"slideshow": "",
+	"published": 1,
+	"full_width": 1,
+	"show_title": 0,
+	"start_date": "",
+	"end_date": "",
+	"content_type": "Page Builder",
+	"dynamic_template": 1,
+	"main_section": "",
+	"main_section_md": "",
+	"main_section_html": "",
+	"insert_code": 0,
+	"insert_style": 1,
+	"text_align": "Left",
+	"css": ".hero-with-right-image .hero-content {\n    align-items: unset;\n}\n\n.hero-with-right-image .hero-content h1 {\n    line-height: 65px;\n    font-size: 50px;\n    margin: .67em 0;\n}",
+	"show_sidebar": 0,
+	"website_sidebar": "",
+	"enable_comments": 0,
+	"header": "",
+	"breadcrumbs": "",
+	"meta_title": "",
+	"meta_description": "",
+	"meta_image": "",
+	"doctype": "Web Page",
+	"page_blocks": [
+		{
+			"web_template": "Hero with Right Image",
+			"web_template_values":"{\"title\": \"Mon Tiers Lieux.\", \"subtitle\": \"Site de d\\u00e9monstration pour les tiers lieux souhaitant utiliser Dokos\", \"image\": \"/assets/tierslieux/images/hero.png\", \"contain_image\": 0, \"primary_action_label\": \"Administrateur\", \"primary_action\": \"#\", \"secondary_action_label\": \"Utilisateur\", \"secondary_action\": \"#\"}",
+			"css_class": "hero",
+			"add_container": 1,
+			"add_top_padding": 1,
+			"add_bottom_padding": 1,
+			"add_shade": 0,
+			"hide_block": 0,
+			"doctype": "Web Page Block"
+		},
+		{
+			"web_template": "Split Section with Image",
+			"web_template_values": "{\"title\": \"Mettez-vous dans la peau d'un utilisateur de tiers lieux\", \"content\": \"Prenez rendez-vous sur la plateforme de réservation de salles de réunions ou d'espace de co-working en cliquant sur le bouton <span><b>Se connecter au portail</b></span><br><ul><li>Réservez vos salles de réunion ou votre matériel</li><li>Récupérez vos factures</li><li>Téléchargez vos documents (Carte d'identité, justificatif de domicile, etc...)</li></ul>\", \"image\": \"/assets/tierslieux/images/section_image_1.png\", \"image_on_right\": 0}",
+			"css_class": "",
+			"add_container": 1,
+			"add_top_padding": 1,
+			"add_bottom_padding": 1,
+			"add_shade": 1,
+			"hide_block": 0,
+			"doctype": "Web Page Block"
+		},
+		{
+			"web_template": "Split Section with Image",
+			"web_template_values": "{\"title\": \"Pilotez votre tiers lieux\", \"content\": \"Découvrez le bureau et les nombreuses fonctionnalités permettant de s'adapter aux multiples cas d'usage des différents tiers lieux en cliquant sur le bouton <span><b>Se connecter au bureau</b></span><br><ul><li>Gérez vos abonnements</li><li>Gérez vos devis et votre facturation</li><li>Faites la comptabilité de votre lieu</li><li>Et bien plus encore...</li></ul>\", \"image\": \"/assets/tierslieux/images/section_image_2.png\", \"image_on_right\": 1}",
+			"css_class": "",
+			"add_container": 1,
+			"add_top_padding": 1,
+			"add_bottom_padding": 1,
+			"add_shade": 0,
+			"hide_block": 0,
+			"doctype": "Web Page Block"
+		}
+	]
+}
+
+

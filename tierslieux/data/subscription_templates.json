@@ -1,0 +1,14 @@
+[
+	{
+		"template_name": "Coworking mensuel",
+		"currency": "EUR",
+		"portal_description": "<div><p>Le forfait Coworking mensuel s'entend du 1er au dernier jour du mois calendaire... Venez quand vous voulez ! </p></div>",
+		"portal_image": "/assets/tierslieux/images/coworking.jpg",
+		"enable_on_portal": 1,
+		"start_date": "1st day of the month",
+		"generate_invoice_at_period_start": 1,
+		"generate_payment_request": 1,
+		"doctype": "Subscription Template",
+		"subscription_plan": "Coworking Mensuel"
+	}
+]

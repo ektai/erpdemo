@@ -1,0 +1,59 @@
+[
+	{
+		"category_name": "Premiers Pas",
+		"category_description": "<div><p>Bienvenue au Tiers Lieux</p><p>Vous trouverez plein d'informations pratiques dans cette catégorie pour trouver vos marques lors de vos premiers jours avec nous.</p></div>",
+		"published": 1,
+		"login_required": 1,
+		"help_articles": 1,
+		"route": "kb/premiers-pas",
+		"doctype": "Help Category"
+	},
+	{
+		"category_name": "Informations pratiques",
+		"category_description": "<div><p>Vous cherchez comment venir au Tiers Lieux ou comment renouveller votre abonnement ? Vous êtes au bon endroit.</p></div>",
+		"published": 1,
+		"login_required": 1,
+		"help_articles": 1,
+		"route": "kb/informations-pratiques",
+		"doctype": "Help Category"
+	},
+	{
+		"title": "Imprimer un document",
+		"category": "Premiers Pas",
+		"published": 1,
+		"login_required": 1,
+		"author": "Thierry",
+		"level": "Beginner",
+		"content": "<div>Afin d\"imprimer un document il faut vous connecter au réseau de Mon Tiers Lieux.</div><div><br></div><div>Une fois connecté, choisissez l\"imprimante \"Imprimante MTL\" et imprimez votre document.</div>",
+		"likes": 0,
+		"route": "kb/premiers-pas/imprimer-un-document",
+		"doctype": "Help Article",
+		"owner": "thierry@dokos.io"
+	},
+	{
+		"title": "Venir au Tiers Lieux",
+		"category": "Informations pratiques",
+		"published": 1,
+		"login_required": 1,
+		"author": "Thierry",
+		"level": "Beginner",
+		"content": "<div>Vous pouvez à pied, à vélo, en trotinette, en bus ou en voiture selon votre préférence.</div>",
+		"likes": 0,
+		"route": "kb/informations-pratiques/venir-au-tiers-lieux",
+		"doctype": "Help Article",
+		"owner": "thierry@dokos.io"
+	},
+	{
+		"title": "Renouveler son abonnement",
+		"category": "Informations pratiques",
+		"published": 1,
+		"login_required": 0,
+		"author": "Thierry",
+		"level": "Beginner",
+		"content": "<div>Vous pouvez à pied, à vélo, en trotinette, en bus ou en voiture selon votre préférence.</div><div><br></div><div>Voici le plan à suivre:</div><div><br></div><div><br></div><div><img src=\"/assets/tierslieux/images/mtl_map.jpg\"></div>",
+		"likes": 0,
+		"route": "kb/informations-pratiques/renouveler-son-abonnement",
+		"doctype": "Help Article",
+		"owner": "thierry@dokos.io"
+	}
+]

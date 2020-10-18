@@ -1,0 +1,22 @@
+image: docker:19
+
+services:
+  - docker:19-dind
+
+stages:
+  - Build TierLieux Images
+
+before_script:
+  - echo -n $CI_JOB_TOKEN | docker login -u gitlab-ci-token --password-stdin $CI_REGISTRY
+
+tierslieux_worker_image:
+  stage: Build TierLieux Images
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE/tierslieux-worker:latest -f docker/worker/Dockerfile .
+    - docker push $CI_REGISTRY_IMAGE/tierslieux-worker:latest
+
+tierslieux_nginx_image:
+  stage: Build TierLieux Images
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE/tierslieux-nginx:latest -f docker/nginx/Dockerfile .
+    - docker push $CI_REGISTRY_IMAGE/tierslieux-nginx:latest

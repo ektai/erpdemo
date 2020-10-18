@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include tierslieux *.css
+recursive-include tierslieux *.csv
+recursive-include tierslieux *.html
+recursive-include tierslieux *.ico
+recursive-include tierslieux *.js
+recursive-include tierslieux *.json
+recursive-include tierslieux *.md
+recursive-include tierslieux *.png
+recursive-include tierslieux *.py
+recursive-include tierslieux *.svg
+recursive-include tierslieux *.txt
+recursive-exclude tierslieux *.pyc

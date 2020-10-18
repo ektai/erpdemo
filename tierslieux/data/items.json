@@ -1,0 +1,179 @@
+[
+	{
+		"uom_name": "Demi-journée",
+		"doctype": "UOM"
+	},
+	{
+		"uom_name": "Mois",
+		"doctype": "UOM"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"uoms": [
+			{
+				"uom": "Demi-journée",
+				"conversion_factor": 1
+			},
+			{
+				"uom": "Jour",
+				"conversion_factor": 1
+			}
+		],
+		"description": "<div><p>Entièrement modulable, en mode conférence, elle peut accueillir jusqu’à 50 personnes.</p><p>Un parperboard est à votre disposition gratuitement.</p><p>Un vidéoprojecteur et des enceintes peuvent également être installés.</p><p>Cette salle n'est mise en location qu'à titre exceptionnel, et ne peut par conséquent être réservée de manière ferme que sur confirmation de notre part.</p></div>",
+		"image": "/assets/tierslieux/images/meeting_2.jpg",
+		"item_code": "Grande salle de réunion - 1er étage",
+		"item_group": "Salles de réunion",
+		"item_name": "Grande salle de réunion - 1er étage",
+		"doctype": "Item",
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Demi-journée",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Demi-journée",
+		"show_in_website": 1,
+		"enable_item_booking": 1,
+		"website_image": "/assets/tierslieux/images/meeting_2.jpg"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"uoms": [
+			{
+				"uom": "Demi-journée",
+				"conversion_factor": 1
+			},
+			{
+				"uom": "Jour",
+				"conversion_factor": 1
+			}
+		],
+		"description": "<div>La salle de séminaire peut confortablement accueillir :</div><div>• en mode réunion, jusqu'à 12 personnes,</div><div>• en mode conférence, jusqu'à 25 personnes. (sans la table)</div><div><br></div><div>Cette salle donne accès à la terrasse !</div><div>Wiifi gratuit, paperboard et 2 feutres fournis.</div><div>Cafés et repas peuvent être servis à votre étage.</div>",
+		"image": "/assets/tierslieux/images/meeting_3.jpg",
+		"item_code": "Salle de séminaire - 2ème étage",
+		"item_group": "Salles de réunion",
+		"item_name": "Salle de séminaire - 2ème étage",
+		"doctype": "Item",
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Demi-journée",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Demi-journée",
+		"show_in_website": 1,
+		"enable_item_booking": 1,
+		"website_image": "/assets/tierslieux/images/meeting_3.jpg"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"description": "<div><p>Location vidéo projecteur</p></div>",
+		"image": "/assets/tierslieux/images/beamer.jpg",
+		"item_code": "Location vidéo projecteur",
+		"item_group": "Salles de réunion",
+		"item_name": "Location vidéo projecteur",
+		"doctype": "Item",
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Unité",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Unité",
+		"show_in_website": 1,
+		"website_image": "/assets/tierslieux/images/beamer.jpg"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"uoms": [
+			{
+				"uom": "Heure",
+				"conversion_factor": 1
+			},
+			{
+				"uom": "Demi-journée",
+				"conversion_factor": 5
+			},
+			{
+				"uom": "Jour",
+				"conversion_factor": 10
+			}
+		],
+		"description": "<div><p>Venez travailler 1 h ou 2 entre 2 RDV ou toute la journée !!!</p></div>",
+		"image": "/assets/tierslieux/images/meeting_1.jpg",
+		"item_code": "Coworking ponctuel",
+		"item_group": "Coworking",
+		"item_name": "Coworking ponctuel",
+		"doctype": "Item",
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Heure",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Heure",
+		"show_in_website": 1,
+		"enable_item_booking": 1,
+		"website_image": "/assets/tierslieux/images/meeting_1.jpg"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"description": "<div><p>Le forfait Coworking mensuel s'entend du 1er au dernier jour du mois calendaire... Venez quand vous voulez ! </p></div>",
+		"image": "/assets/tierslieux/images/coworking.jpg",
+		"item_code": "Coworking mensuel",
+		"item_group": "Coworking",
+		"item_name": "Coworking mensuel",
+		"doctype": "Item",
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Mois",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Mois",
+		"show_in_website": 1,
+		"website_image": "/assets/tierslieux/images/coworking.jpg"
+	},
+	{
+		"item_defaults": [
+			{
+				"company": "Mon Tiers Lieux",
+				"income_account": "706 - Prestations de services - MTL"
+			}
+		],
+		"description": "<div><p>Acompte de 30% sur prestation</p></div>",
+		"item_code": "Acompte 30%",
+		"item_group": "Services",
+		"item_name": "Acompte 30%",
+		"doctype": "Item",
+		"is_down_payment_item": 1,
+		"down_payment_percentage": 30.0,
+		"is_stock_item": 0,
+		"include_item_in_manufacturing": 0,
+		"stock_uom": "Unité",
+		"is_purchase_item": 0,
+		"is_sales_item": 1,
+		"sales_uom": "Unité",
+		"show_in_website": 0
+	}
+]

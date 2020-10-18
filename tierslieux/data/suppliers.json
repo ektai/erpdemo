@@ -1,0 +1,5602 @@
+[
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cala Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "FlowerTime",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Morrison's Cafeteria",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Envirotecture Design Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lawnscape Garden Maintenance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Liberty Wealth Planners",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Destiny Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Allied City Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Builders Emporium",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Flexus",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Price Club",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Buck Alley Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Your Future Is Now",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Infinite Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monmax",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mr. D's IGA",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Nutri G",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Waccamaw's Homeplace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Joseph Magnin",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Judy's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chandlers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Infinity Investment Plan",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Grossman's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sportswest",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gamma Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "J. Riggings",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Block Distributors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crazy Tiger",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Target Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Alladin's Lamp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ejecta",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Destiny Realty Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Price's Electronics",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Casual Corner",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tradewell",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Avant Garde Appraisal",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crazy Eddie",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Environ Architectural Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gino's Hamburgers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Specialty Restaurant Group",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Consulting",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jack Lang",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Allied Radio",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Edge Yard Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "10,000 Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Netcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Brilliant Home Designs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "McMahan's Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Morville",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Golden's Distributors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dave Cooks",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Solution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sammy's Record Shack",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kinney Shoes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Herman's World of Sporting Goods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Romp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chase Pitkin",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stop and Shop",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Schucks Auto Supply",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Judy's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Huyler's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jitney Jungle",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Plan Future",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dynatronics Accessories",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sanitary Grocery Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wellby",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Our Own Hardware",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "You Are Successful",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pace Membership Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Team Electronics",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "First Rate Choice",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Omni Tech Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sports Unlimited",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Peter Reeves",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lechmere",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Present Company",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Fradkin Brothers Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Burger Chef",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Albers Super Markets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gas Zone",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Exact Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chandler's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wilson's Jewelers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "China Coast",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Source Club",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Littler's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weingarten's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Heilig-Meyers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sholl's Colonial Cafeteria",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Finast",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maxiserve",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Food Giant",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Golf Augusta Pro Shops",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "A. L. Price",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Handyman",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gallenkamp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "ABCO Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Just For Fun",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Thompson",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Thompson",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Starship Tapes & Records",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Solution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mr. AG's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Raleigh's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Oranges Records & Tapes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sunny's Surplus",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Shoe Kicks",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hudson's MensWear",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Accord Investments",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Briazz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Computer City",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Griff's Hamburgers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Source Club",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Hardgoods Distributors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Strategic Profit",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "House Works",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Listen Up",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maloley's Finer Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Larry's Markets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Specific Appraisals",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Enrich Garden Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pace Membership Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Warehouse Club, Inc.",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Britling Cafeterias",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Serendipity Dip",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gallenkamp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weatherill's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Best Biz Survis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Afforda Merchant Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Beatties",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pro Star Garden Management",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Movie Gallery",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gas Legion",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Independent Planners",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Audio Visions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Universo Realtors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Super Place",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Practi-Plan",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lechters Housewares",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Lawn Guru",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gamma Grays",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Judy's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bloom Brothers Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Exact Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dreamscape Garden Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Custom Lawn Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "K's Merchandise",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Trak Auto",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Alexander's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Office Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Omni Superstore",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frank and Seder",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Access Asia",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "House Works",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frank's Nursery & Crafts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sun Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Laura Ashley",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Star Assistance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Omni Source",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Happy Family",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Purity Supreme",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maurice The Pants Man",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk Home Loans",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hoyden",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Thom McAn Store",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Auto Palace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tape World",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Powerbod",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Sources",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Belle Ladi",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Acuserv",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Piece Goods Fabric",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk Home Funding Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Vinyl Fever",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Judy's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bay Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weenie Beenie",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Brooks Fashions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Afterthoughts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Father & Son",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "House Works",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "J. Brannam",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Aaronson Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Alpha Beta",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Druther's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk House Sales",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Hardgoods Distributors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Auto Palace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cellophane Square",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maxiserve",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Realty Solution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "L.L. Berger",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "LaBelle's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ulbrich's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rex Audio Video Appliance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Roberd's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hit or Miss",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "E.J. Korvette",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Castro Convertibles",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Big Daddy's Restaurants",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Forum Cafeterias",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Compact Disc Center",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Official All Star Caf\u00e9",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Holly Tree Inn",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "E-zhe Source",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weathervane",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Music Boutique",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Payless Cashways",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Official All Star Caf\u00e9",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bresler's Ice Cream",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Exact Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ellman's Catalog Showrooms",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "McDade's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Eagle Food Centers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Sources",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Practi-Plan Mapping",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Freedom Map",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Golden Dawn",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "County Seat",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Egghead Software",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Peaches",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Singer Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Quality Merchant Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Formula Grey",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kenny Rogers Roasters",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hughes Markets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "House Of Denmark",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Highland Appliance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Life Plan Counselling",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Honest Air Group",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lafayette Radio",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "TheBottomHalf",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stratacard",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dreamscape Garden Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dreamscape Garden Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Blockbuster Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "JumboSports",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kash n' Karry",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Family Toy",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Service Merchandise",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Personal & Corporate Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The White Rabbit",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "ABCO Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Herman's World of Sporting Goods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Simply Save",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Woolf Brothers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Big Apple",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Matrix Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asian Fusion",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Erlebacher's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Solution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frank's Nursery & Crafts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tee Town",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Young @ Heart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Nobil",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Argus Tapes & Records",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cavages",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Fellowship Investments",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Beefsteak Charlie's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Erol's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Packer",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Vitagee",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ardan's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Realty Depot",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "White Hen Pantry",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Netcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Datacorp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monmax",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Blue Boar Cafeterias",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Susie's Casuals",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Peaches",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rogers Peet",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Brooks Fashions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Seamans Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sound Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ideal Garden Management",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sunny Real Estate Investments",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Home Centers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kleinhans",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pay'N Takeit",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "MagnaSolution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pace Membership Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Town and Country Convenience Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Sources",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Better Business Ideas and Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Custom Sound",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Al's Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mission You",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Simple Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Titania",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Canal Villere",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cal Stereo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dun Rite Lawn Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "L.L. Berger",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Naugles",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Oklahoma Tire & Supply Company",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Griff's Hamburgers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Henry's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Adaptas",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kohl's Food Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Polk Brothers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maxaprofit",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tam's Stationers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Suncoast Video",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Media Play",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "American Appliance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Quality Merchant Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Custom Lawn Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Perisolution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kiddie City",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Olson's Market",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "On Cue",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Happy Bear",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Excella",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Home Quarters Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Twin Electronics",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Herman's World of Sporting Goods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ransohoffs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "KG Menswear",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jacob Reed and Sons",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Network Chef",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "H. J. Wilson & Company",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Red Owl",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Littler's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dun Rite Lawn Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Buena Vista Realty Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "TheBottomHalf",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Western Auto",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ukrop's Super Market",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Disc Jockey",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Parts America",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Red Owl",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Our Own Hardware",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Record & Tape Outlet",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Your Future Is Now",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Konsili",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Playworld",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maxiserve",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pro-Care Garden Maintenance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maxi-Tech",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Children's Palace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "StopGrey",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mighty Casey's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bloom Brothers Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Marianne",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Blockbuster Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Deco Refreshments, Inc.",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Edge Garden Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Children's Palace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Infinite Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "WWW Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gantos",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Grand Union",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "DGS VolMAX",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Multi-Systems Merchant Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Plan Smart Partner",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Wiz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ideal Garden Maintenance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pro-Care Garden Maintenance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chief Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Courtesy Hardware Store",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Burger Chef",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tech Hifi",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Buehler Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Little Folk Shops",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Newmark & Lewis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Olson's Market",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Incluesiv",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rogers Peet",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Strong Life",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weingarten's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Widdmann",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bresler's Ice Cream",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frame Scene",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stop and Shop",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Robinson Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Life Map",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Channel Home Centers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Integra Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asian Junction",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wise Appraisals",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tee Town",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sampson's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Liberty Wealth Planners",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Aaronson Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mikro Designs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mission You",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Purity Supreme",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magna Solution",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Roberd's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cougar Investment",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Zany Brainy",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Omni Source",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asiatic Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crandall's Fine Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Life's Gold",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Realty Depot",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lafayette Radio",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Fretter",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cal Stereo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Shoe Pavilion",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Planet Pizza",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Present Company",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sun Television and Appliances",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dreamscape Garden Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Music Boutique",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Belle Ladi",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Unity Frankford Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "County Market",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "LaBelle's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Webcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Noodle Kidoodle",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Disc Jockey",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The High Heelers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kids Mart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Young @ Heart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jay Jacobs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Paul's Record Hut",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Best Biz Survis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "d.e.m.o.",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Afforda",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Klopfenstein's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Affinity Investment Group",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Spaceage Stereo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magik Lamp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Good Times",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Knox Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Payless Cashways",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cellophane Square",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Little Tavern",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wetson's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Schweggmanns",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Buena Vista Garden Maintenance",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wise Appraisals",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Warner Brothers Studio Store",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Parade of Shoes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Practi-Plan",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Parts America",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Morville",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Home Quarters Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Platinum Interior Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hollywood Video",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "FamilyMart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Food Mart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hastings",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Today's Man",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crown Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sunburst Garden Management",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Peaches",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cardinal Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "SoundTrack",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "You Are Successful",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Edwards",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asiatic Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dahlkemper's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Garden Guru",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Modern Architecture Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tradewell",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Planetbiz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Laura Ashley",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "A+ Investments",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hollywood Video",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sounds of Soul Records & Tapes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Courtesy Hardware Store",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Grossman's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pioneer Chicken",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Checker Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "J. Riggings",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Best Biz Survis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Megatronic",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bonanza Produce Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mission You",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mode O'Day",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Electronics Source",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Matrix Interior Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Planetbiz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Wiz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk Real Estate Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Fretter",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Warshal's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Richman Brothers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sports Unlimited",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Signa Air",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Zantigo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rustler Steak House",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "K's Merchandise",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Maurice The Pants Man",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Knockout Kickboxing",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mervyn's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Exact Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Newmark & Lewis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Play Town",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Casual Corner",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "MegaSolutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kessel Food Market",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gottschalks",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Olympic Sports",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Oshman's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Little Tavern",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rainbow Life",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stop N Shop",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Weatherill's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Krauses Sofa Factory",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Your Future Is Now",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Paul Harris",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Northern Star",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Titania",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Yard Management",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ruehl No. 925",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Camelot Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Grand Union",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Super Place",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "World of Fun",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "J. Riggings",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ellman's Catalog Showrooms",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Serve",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hudson's MensWear",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pleasures and Pasttimes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Compact Disc Center",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Webcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Earl Abel's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "CompuAdd",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Leath Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Listenin' Booth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mages",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Ruehl No. 925",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Music Den",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Big Daddy's Restaurants",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hanover Shoe",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Jolly Farmer",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Soft Warehouse",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rainbow Records",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Spotted Cougar",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cavages",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Sources",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Capitalcorp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Millenia Life",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mr. AG's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Standard Sales",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Creative Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stratacard",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pantry Pride",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "HomeBase",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Farrell's Ice Cream Parlour",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gamma Grays",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Judy's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Golf Augusta Pro Shops",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "ABC Markets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dreamscape Garden Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gamma Gas",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Environ Architectural Design",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Waves Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Druther's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Your Choices",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Netcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk House Sales",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "National Tea",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pay'N Takeit",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Architectural Genie",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Benesome",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stratacard",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lum's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Casa Bonita",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Parade of Shoes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Quality Realty Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frame Scene",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Stratagee",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Leonard Krower & Sons",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Carrols Restaurant Group",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gene Walter's Marketplace",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Life's Gold",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Locost Accessories",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The High Heelers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Red Food",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Consumers and Consumers Express",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Eagle Food Centers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Burger Chef",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Wheels Discount Auto",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mikrotechnic",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kids Mart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kragen Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Newmark & Lewis",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Henry's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Britches of Georgetown",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Bountiful Harvest Health Food Store",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "White Hen Pantry",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Food Barn",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jacob Reed and Sons",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Belle Lady",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Golden Joy",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "County Seat",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Success Is Yours",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Indiewealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Music Plus",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crafts Canada",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Strawberries",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Netobill",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Frank and Seder",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Alexander's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Steak and Ale",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chandlers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "House of Gas",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Angel's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Harvest Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tech Hifi",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Paul's Food Mart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Complete Tech",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mr. Steak",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Gamble-Skogmo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Webcom Business Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Fox and Hound",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "New World Realty",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Affinity Investment Group",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Marianne",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Food Fair",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Mighty Casey's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asian Fusion",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cellophane Square",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Tweeter",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Earl Abel's",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "First Choice Yard Help",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "W. Bell & Co.",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Pro Garden Management",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Incredible Universe",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Loblaws",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Team Designers and Associates",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Parklane Hosiery",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Royal Canadian Pancake Houses",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Superior Appraisals",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "E.J. Korvette",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Brilliant Home Designs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Eden Lawn Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Rhodes Furniture",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Grand Union",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Zany Brainy",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Magik Grey",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "The Great Train Stores",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Chase Pitkin",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Block Distributors",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "DGS HomeSource",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lindsley's Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Brown Derby",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hudson's MensWear",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Crown Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Kinney Shoes",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Skaggs-Alpha Beta",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Freedom Map",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hills Supermarkets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Vari-Tec",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Allied Radio",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Blockbuster Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "I. Magnin",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Paul's Food Mart",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Circuit City",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Eagle Hardware & Garden",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Planetbiz",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Total Serve",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Datacorp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Life Map Planners",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Joshua Doore",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lone Wolf Wealth Planning",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Datacorp",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Today's Man",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Monk Real Estate Service",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Big A Auto Parts",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "China Coast",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Netcore",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Argus Tapes & Records",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Asian Junction",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Almacs",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Payless Cashways",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cal Stereo",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Handyman",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Eli Moore Inc",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Richman Brothers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "ABC Markets",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lionel Kiddie City",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Boston Sea Party",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Destiny Realty Solutions",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Multi-Systems Merchant Services",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jitney Jungle",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Cala Foods",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Creative Wealth",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Singer Lumber",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Reliable Investments",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Jafco",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Present Company",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Red Owl",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Sportswest",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Franklin Music",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Lechmere",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dun Rite Lawn Care",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Dick Fischers",
+        "language": "fr"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_type": "Company",
+        "supplier_group": "Mat\u00e9riel",
+        "territory": "France",
+        "supplier_name": "Hughes & Hatcher",
+        "language": "fr"
+    }
+]

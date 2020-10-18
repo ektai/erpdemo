@@ -1,0 +1,25 @@
+{% extends "templates/web.html" %}
+
+{%- block title -%}{{_("Find a Third Place")}}{%- endblock -%}
+
+{% block page_content %}
+<div id='tl-map'></div>
+{% endblock %}
+
+{%- block footer -%}
+{%- endblock -%}
+
+{% block script %}
+	<script type="text/javascript" src="/assets/frappe/js/lib/leaflet/leaflet.js"></script>
+	<script type="text/javascript" src="/assets/frappe/js/lib/leaflet/leaflet.draw.js"></script>
+	<script type="text/javascript" src="/assets/frappe/js/lib/leaflet/L.Control.Locate.js"></script>
+	<script type="text/javascript" src="/assets/frappe/js/lib/leaflet/easy-button.js"></script>
+	<script type="text/javascript" src="/assets/js/control.min.js"></script>
+	<script type="text/javascript" src="/assets/js/dialog.min.js"></script>
+	<script type="text/javascript" src="/assets/js/bootstrap-4-web.min.js"></script>
+	<script>{% include "templates/includes/map/map.js" %}</script>
+{% endblock %}
+
+{% block style %}
+	<link type="text/css" rel="stylesheet" href="/assets/css/leaflet.min.css">
+{% endblock %}

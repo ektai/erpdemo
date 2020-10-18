@@ -1,0 +1,120 @@
+[
+	{
+		"calendar_title": "Général - Heure et Journée",
+		"item": "",
+		"uom": "",
+		"doctype": "Item Booking Calendar",
+		"booking_calendar": [
+			{
+				"day": "Monday",
+				"start_time": "08:00:00",
+				"end_time": "18:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Tuesday",
+				"start_time": "08:00:00",
+				"end_time": "18:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Wednesday",
+				"start_time": "08:00:00",
+				"end_time": "18:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Thursday",
+				"start_time": "08:00:00",
+				"end_time": "18:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Friday",
+				"start_time": "08:00:00",
+				"end_time": "18:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Saturday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			}
+		]
+	},
+	{
+		"calendar_title": "Général - Demi-journée",
+		"item": "",
+		"uom": "Demi-journée",
+		"doctype": "Item Booking Calendar",
+		"booking_calendar": [
+			{
+				"day": "Monday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Monday",
+				"start_time": "13:30:00",
+				"end_time": "18:30:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Tuesday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Tuesday",
+				"start_time": "13:30:00",
+				"end_time": "18:30:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Wednesday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Wednesday",
+				"start_time": "13:30:00",
+				"end_time": "18:30:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Thursday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Thursday",
+				"start_time": "13:30:00",
+				"end_time": "18:30:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Friday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Friday",
+				"start_time": "13:30:00",
+				"end_time": "18:30:00",
+				"doctype": "Item Booking Calendars"
+			},
+			{
+				"day": "Saturday",
+				"start_time": "08:00:00",
+				"end_time": "13:00:00",
+				"doctype": "Item Booking Calendars"
+			}
+		]
+	}
+]

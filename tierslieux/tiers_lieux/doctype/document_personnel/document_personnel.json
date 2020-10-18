@@ -1,0 +1,73 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{MM}{YYYY}-{utilisateur}-{type_de_document}",
+ "creation": "2020-06-05 15:39:03.545582",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "type_de_document",
+  "utilisateur",
+  "fichier_joint"
+ ],
+ "fields": [
+  {
+   "fieldname": "type_de_document",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Type de document",
+   "options": "Carte d'identit\u00e9\nPasseport\nPermis de conduire\nJustificatif de domicile",
+   "reqd": 1,
+   "show_days": 1,
+   "show_seconds": 1
+  },
+  {
+   "fieldname": "fichier_joint",
+   "fieldtype": "Attach",
+   "in_list_view": 1,
+   "label": "Fichier joint",
+   "reqd": 1,
+   "show_days": 1,
+   "show_seconds": 1
+  },
+  {
+   "fieldname": "utilisateur",
+   "fieldtype": "Link",
+   "label": "Utilisateur",
+   "options": "User",
+   "reqd": 1,
+   "show_days": 1,
+   "show_seconds": 1
+  }
+ ],
+ "links": [],
+ "modified": "2020-06-05 16:26:14.577011",
+ "modified_by": "Administrator",
+ "module": "Tiers Lieux",
+ "name": "Document Personnel",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "read": 1,
+   "role": "Customer",
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "type_de_document"
+}

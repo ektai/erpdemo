@@ -1,0 +1,15 @@
+#searchbox {
+    padding: 0 15px;
+    width: 64vw;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.15);
+    position: absolute;
+    top: 90px;
+    left: calc(50% - 32vw);
+    z-index: 999;
+}
+
+.leaflet-popup {
+    z-index: 9999;
+}

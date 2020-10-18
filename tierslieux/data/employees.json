@@ -1,0 +1,36 @@
+[
+    {
+        "doctype": "Employee",
+        "first_name": "Alfred",
+        "last_name": "Faubert",
+        "gender": "Masculin",
+        "date_of_birth": "1977-02-18",
+        "date_of_joining": "2019-03-01",
+        "user_id": "alfred@dokos.io"
+    },
+    {
+        "doctype": "Employee",
+        "first_name": "Tilly",
+        "last_name": "LaCaille",
+        "gender": "Féminin",
+        "date_of_birth": "1983-04-18",
+        "date_of_joining": "2020-01-01",
+        "user_id": "tilly@dokos.io"
+    },
+    {
+        "doctype": "Employee",
+        "first_name": "Huette",
+        "last_name": "Fortier",
+        "gender": "Féminin",
+        "date_of_birth": "1976-12-15",
+        "date_of_joining": "2019-06-01"
+    },
+    {
+        "doctype": "Employee",
+        "first_name": "Agnès",
+        "last_name": "Pomerleau",
+        "gender": "Masculin",
+        "date_of_birth": "1994-07-21",
+        "date_of_joining": "2020-05-11"
+    }
+]

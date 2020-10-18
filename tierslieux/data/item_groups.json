@@ -1,0 +1,23 @@
+[
+	{
+		"doctype": "Item Group",
+		"item_group_name": "Coworking",
+		"is_group": 0,
+		"parent_item_group": "Tous les groupes d'articles",
+		"show_in_website": 1
+	},
+	{
+		"doctype": "Item Group",
+		"item_group_name": "Salles de réunion",
+		"is_group": 0,
+		"parent_item_group": "Tous les groupes d'articles",
+		"show_in_website": 1
+	},
+	{
+		"doctype": "Item Group",
+		"item_group_name": "Fablab",
+		"is_group": 0,
+		"parent_item_group": "Tous les groupes d'articles",
+		"show_in_website": 1
+	}
+]

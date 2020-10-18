@@ -1,0 +1,18 @@
+[
+	{
+		"plan_name": "Coworking mensuel",
+		"subscription_plans_template": [
+			{
+				"doctype": "Subscription Plan Detail",
+				"item": "Coworking mensuel",
+				"qty": 1,
+				"uom": "Mois",
+				"stripe_plan": "price_1HAuPSCrvSFGlRCZUOlqtayu",
+				"description": "<div><p>Le forfait Coworking mensuel s'entend du 1er au dernier jour du mois calendaire... Venez quand vous voulez ! </p></div>"
+			}
+		],
+		"enable_on_portal": 0,
+		"customer_group": "",
+		"doctype": "Subscription Plan"
+	}
+]

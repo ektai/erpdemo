@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Couleur principale",
+        "color": "#6cd5e1",
+        "doctype": "Color"
+    },
+    {
+        "name": "Couleur secondaire",
+        "color": "#ffd98e",
+        "doctype": "Color"
+    },
+    {
+        "name": "Texte principal",
+        "color": "#333333",
+        "doctype": "Color"
+    }
+]
